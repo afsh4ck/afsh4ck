@@ -43,6 +43,7 @@
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-008000?style=for-the-badge&logo=openvas&logoColor=white)
 
 ## GitHub Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsh4ck&layout=compact)](https://github.com/afsh4ck/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=afsh4ck&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsh4ck&layout=compact&theme=dark)](https://github.com/afsh4ck/github-readme-stats)
 
 ¡Gracias por visitar mi perfil! 🚀
