@@ -9,10 +9,6 @@
 <li>🎓 Fundador de <a href="https://www.h4ckercademy.com" rel="nofollow">h4ckercademy</a></li>
 </ul>
 
-## 📲 Sígueme
-- **Instagram:** [afsh4ck](https://www.instagram.com/afsh4ck/)
-- **YouTube:** [afsh4ck](https://youtube.com/@afsh4ck)
-
 ## 🔧 Skills
 ### Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
