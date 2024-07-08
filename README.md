@@ -2,17 +2,11 @@
 
 👾 **Ethical Hacker | Pentester | Creador de contenido**
 
----
-
 ## 🚀 Sobre mí
 Experto en todos los aspectos de la Ciberseguridad Ofensiva: Pentesting en Entornos Empresariales, técnicas de OSINT, creación de scripts, explotación en hosts, Hacking WiFi…
 
----
-
 ## 🎓 Academia
 Cursos de hacking online: <a href="https://www.h4ckercademy.com" target="_blank">h4ckercademy</a>
-
----
 
 ## 🔧 Skills
 ### Lenguajes de Programación
@@ -46,8 +40,6 @@ Cursos de hacking online: <a href="https://www.h4ckercademy.com" target="_blank"
 ### Red y Seguridad
 ![Snort](https://img.shields.io/badge/Snort-FF5C93?style=for-the-badge&logo=snort&logoColor=white)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-008000?style=for-the-badge&logo=openvas&logoColor=white)
-
----
 
 ## 📲 Sígueme
 - **Instagram:** [afsh4ck](https://www.instagram.com/afsh4ck/)
