@@ -44,17 +44,12 @@
 Y muchas más!
 
 ## ⚙️ GitHub Analytics
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=afsh4ck&show_icons=true&theme=merko" alt="GitHub stats">
-    </td>
-    <td>
-      <a href="https://github.com/afsh4ck/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsh4ck&layout=compact&theme=merko" alt="Top Langs">
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=afsh4ck&show_icons=true&theme=merko" alt="GitHub stats" height="200">
+  <a href="https://github.com/afsh4ck/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsh4ck&layout=compact&theme=merko" alt="Top Langs" height="200">
+  </a>
+</div>
+
 
 ¡Gracias por visitar mi perfil! 🚀
