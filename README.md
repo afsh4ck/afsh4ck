@@ -1,16 +1,17 @@
 ## 👋 Hola, soy @afsh4ck
 
-👾 **Ethical Hacker | Pentester | Creador de contenido**
 
 ## 🚀 Sobre mí
-Experto en todos los aspectos de la Ciberseguridad Ofensiva: Pentesting en Entornos Empresariales, técnicas de OSINT, creación de scripts, explotación en hosts, Hacking WiFi…
+<ul dir="auto">
+<li>👾 Experto en Ciberseguridad Ofensiva y Pentesting en Entornos Empresariales</li>
+<li>🎥 Te enseño a hackear en <a href="https://youtube.com/@afsh4ck?sub_confirmation=1" rel="nofollow">Youtube</a> (+2k subs)</li>
+<li>🟢 También subo reels en <a href="https://youtube.com/@afsh4ck?sub_confirmation=1" rel="nofollow">Instagram</a> (+70k subs)</li>
+<li>🎓 Fundador de <a href="https://www.h4ckercademy.com" rel="nofollow">h4ckercademy</a></li>
+</ul>
 
-<p dir="auto"><a href="https://youtube.com/@afsh4ck?sub_confirmation=1" rel="nofollow"><img src="https://camo.githubusercontent.com/53dc4f941cce1a2b743d2cf599c38fe1bfea38d75f7c8ad98ce07233c4c129bd/68747470733a2f2f696d672e736869656c64732e696f2f796f75747562652f6368616e6e656c2f73756273637269626572732f5543496a45674841317661745352324b34726663644e52673f7374796c653d736f6369616c" alt="YouTube Channel Subscribers" data-canonical-src="https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social" style="max-width: 100%;"></a>
-<a href="https://github.com/afsh4ck"><img src="https://camo.githubusercontent.com/8b911f321211e4cb34086bbd01ac4bbaa3d57ed1a554fc93fd415eaaa448e144/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f617269736775696d6572613f7374796c653d736f6369616c" alt="GitHub followers" data-canonical-src="https://img.shields.io/github/followers/afsh4ck?style=social" style="max-width: 100%;"></a>
-
-
-## 🎓 Academia
-Cursos de hacking online: <a href="https://www.h4ckercademy.com" target="_blank">h4ckercademy</a>
+## 📲 Sígueme
+- **Instagram:** [afsh4ck](https://www.instagram.com/afsh4ck/)
+- **YouTube:** [afsh4ck](https://youtube.com/@afsh4ck)
 
 ## 🔧 Skills
 ### Lenguajes de Programación
@@ -45,8 +46,7 @@ Cursos de hacking online: <a href="https://www.h4ckercademy.com" target="_blank"
 ![Snort](https://img.shields.io/badge/Snort-FF5C93?style=for-the-badge&logo=snort&logoColor=white)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-008000?style=for-the-badge&logo=openvas&logoColor=white)
 
-## 📲 Sígueme
-- **Instagram:** [afsh4ck](https://www.instagram.com/afsh4ck/)
-- **YouTube:** [afsh4ck](https://youtube.com/@afsh4ck)
+## GitHub Analytics
+<img height="180em" src="https://camo.githubusercontent.com/4efe130ca83eb9008cceedcd42d3c38601442aef2c555f38df51e20c53826047/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170693f757365726e616d653d417269734775696d6572612673686f775f69636f6e733d74727565267468656d653d616c676f6c696126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?username=afsh4ck&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
 
 ¡Gracias por visitar mi perfil! 🚀
