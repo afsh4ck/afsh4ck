@@ -40,7 +40,7 @@
 ![Hydra](https://img.shields.io/badge/Hydra-333399?style=for-the-badge&logo=hydra&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/Hashcat-994422?style=for-the-badge&logo=hashcat&logoColor=white)
 ![BloodHound](https://img.shields.io/badge/BloodHound-cc0000?style=for-the-badge&logo=bloodhound&logoColor=white)
-<br>
+<br><br>
 Y muchas más!
 
 ## ⚙️ GitHub Analytics
@@ -50,6 +50,6 @@ Y muchas más!
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsh4ck&layout=compact&theme=merko" alt="Top Langs" height="148">
   </a>
 </div>
-
+<br>
 
 ¡Gracias por visitar mi perfil! 🚀
