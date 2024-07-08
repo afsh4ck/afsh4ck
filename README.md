@@ -1,14 +1,42 @@
-## Sobre mí
-👋 Hola, soy @afsh4ck <br>
-👾 Ethical hacker, pentester y creador de contenido
+# 👋 Hola, soy @afsh4ck
 
-## Academia
-🎓 Mi academia de hacking online: <a href="https://www.h4ckercademy.com">h4ckercademy</a>
+👾 **Ethical hacker, pentester y creador de contenido**
 
-## Sígueme
-- Instagram:   <a href="https://www.instagram.com/afsh4ck/">afsh4ck</a>
-- Youtube:     <a href="https://youtube.com/@afsh4ck">afsh4ck</a>
+---
 
-## Soporte
+## 🚀 Sobre mí
+Soy un apasionado de la ciberseguridad con experiencia en hacking ético y pruebas de penetración. Me encanta compartir mis conocimientos a través de mi academia online y mis redes sociales.
 
-<a href="https://www.buymeacoffee.com/afsh4ck" rel="nofollow"><img width="250" alt="buymeacoffe" src="https://camo.githubusercontent.com/b046532cac63358f348a2cf0b9f45916e7a13de1a2ccb4ebef504b0a882bb2b3/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d6f72616e67652e706e67" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" style="max-width: 100%;"></a>
+---
+
+## 🎓 Academia
+🎓 **Mi academia de hacking online:**  
+<a href="https://www.h4ckercademy.com" target="_blank"><img src="https://user-images.githubusercontent.com/8186664/123548367-64d35f00-d73c-11eb-8ab0-9b7252ee243a.png" alt="H4ckercademy" width="200"></a>
+
+---
+
+## 🔧 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-4986B1?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-7C3BE4?style=for-the-badge&logo=nmap&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+---
+
+## 📲 Sígueme
+- **Instagram:** [afsh4ck](https://www.instagram.com/afsh4ck/)
+- **YouTube:** [afsh4ck](https://youtube.com/@afsh4ck)
+
+---
+
+## ☕ Soporte
+Si encuentras útil mi contenido, considera apoyarme:
+
+<a href="https://www.buymeacoffee.com/afsh4ck" rel="nofollow" target="_blank"><img width="250" alt="buymeacoffe" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" style="max-width: 100%;"></a>
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
