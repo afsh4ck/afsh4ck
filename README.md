@@ -27,22 +27,17 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)
-
-### Explotación y Post-explotación
 ![Mimikatz](https://img.shields.io/badge/Mimikatz-DC143C?style=for-the-badge&logo=mimikatz&logoColor=white)
 ![Responder](https://img.shields.io/badge/Responder-FF0000?style=for-the-badge&logo=ghost&logoColor=white)
 ![Empire](https://img.shields.io/badge/Empire-1A1A1A?style=for-the-badge&logo=empire&logoColor=white)
-
-### Hacking Web
 ![SQLmap](https://img.shields.io/badge/SQLmap-3E6E93?style=for-the-badge&logo=sqlmap&logoColor=white)
 ![XSSer](https://img.shields.io/badge/XSSer-000000?style=for-the-badge&logo=xss&logoColor=white)
 ![NoSQLMap](https://img.shields.io/badge/NoSQLMap-0B5394?style=for-the-badge&logo=nosqlmap&logoColor=white)
-
-### Red y Seguridad
 ![Snort](https://img.shields.io/badge/Snort-FF5C93?style=for-the-badge&logo=snort&logoColor=white)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-008000?style=for-the-badge&logo=openvas&logoColor=white)
+Y muchas más!
 
-## GitHub Analytics
+##⚙️ GitHub Analytics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=afsh4ck&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsh4ck&layout=compact&theme=merko)](https://github.com/afsh4ck/github-readme-stats)
 
