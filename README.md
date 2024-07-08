@@ -1,4 +1,4 @@
-# 👋 Hola, soy @afsh4ck
+## 👋 Hola, soy @afsh4ck
 
 👾 **Ethical Hacker | Pentester | Creador de contenido**
 
@@ -28,7 +28,5 @@ Cursos de hacking online: <a href="https://www.h4ckercademy.com" target="_blank"
 ### 📲 Sígueme
 - **Instagram:** [afsh4ck](https://www.instagram.com/afsh4ck/)
 - **YouTube:** [afsh4ck](https://youtube.com/@afsh4ck)
-
----
 
 ¡Gracias por visitar mi perfil! 🚀
