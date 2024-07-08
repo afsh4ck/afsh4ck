@@ -43,6 +43,6 @@
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-008000?style=for-the-badge&logo=openvas&logoColor=white)
 
 ## GitHub Analytics
-<img height="180em" src="https://camo.githubusercontent.com/4efe130ca83eb9008cceedcd42d3c38601442aef2c555f38df51e20c53826047/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170693f757365726e616d653d417269734775696d6572612673686f775f69636f6e733d74727565267468656d653d616c676f6c696126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?username=afsh4ck&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsh4ck&layout=compact)](https://github.com/afsh4ck/github-readme-stats)
 
 ¡Gracias por visitar mi perfil! 🚀
