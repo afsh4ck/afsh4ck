@@ -21,7 +21,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Herramientas de Pentesting
+### Hacking Tools
 ![Metasploit](https://img.shields.io/badge/Metasploit-4986B1?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-7C3BE4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -30,12 +30,17 @@
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)
 ![Mimikatz](https://img.shields.io/badge/Mimikatz-DC143C?style=for-the-badge&logo=mimikatz&logoColor=white)
 ![Responder](https://img.shields.io/badge/Responder-FF0000?style=for-the-badge&logo=ghost&logoColor=white)
-![Empire](https://img.shields.io/badge/Empire-1A1A1A?style=for-the-badge&logo=empire&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-3E6E93?style=for-the-badge&logo=sqlmap&logoColor=white)
 ![XSSer](https://img.shields.io/badge/XSSer-000000?style=for-the-badge&logo=xss&logoColor=white)
 ![NoSQLMap](https://img.shields.io/badge/NoSQLMap-0B5394?style=for-the-badge&logo=nosqlmap&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-FF5C93?style=for-the-badge&logo=snort&logoColor=white)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-008000?style=for-the-badge&logo=openvas&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-22BB33?style=for-the-badge&logo=tenable&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-AA1111?style=for-the-badge&logo=jtr&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-333399?style=for-the-badge&logo=hydra&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-994422?style=for-the-badge&logo=hashcat&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-cc0000?style=for-the-badge&logo=bloodhound&logoColor=white)
+<br>
 Y muchas más!
 
 ## ⚙️ GitHub Analytics
