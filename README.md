@@ -2,11 +2,17 @@
 
 👾 **Ethical Hacker | Pentester | Creador de contenido**
 
+---
+
 ### 🚀 Sobre mí
 Experto en todos los aspectos de la Ciberseguridad Ofensiva: Pentesting en Entornos Empresariales, técnicas de OSINT, creación de scripts, explotación en hosts, Hacking WiFi…
 
+---
+
 ### 🎓 Academia
 Cursos de hacking online: <a href="https://www.h4ckercademy.com" target="_blank">h4ckercademy</a>
+
+---
 
 ### 🔧 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,13 +23,12 @@ Cursos de hacking online: <a href="https://www.h4ckercademy.com" target="_blank"
 ![Metasploit](https://img.shields.io/badge/Metasploit-4986B1?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-7C3BE4?style=for-the-badge&logo=nmap&logoColor=white)
 
+---
+
 ### 📲 Sígueme
 - **Instagram:** [afsh4ck](https://www.instagram.com/afsh4ck/)
 - **YouTube:** [afsh4ck](https://youtube.com/@afsh4ck)
 
-### ☕ Soporte
-Si encuentras útil mi contenido, considera apoyarme:
-
-<a href="https://www.buymeacoffee.com/afsh4ck" rel="nofollow" target="_blank"><img width="250" alt="buymeacoffe" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" style="max-width: 100%;"></a>
+---
 
 ¡Gracias por visitar mi perfil! 🚀
