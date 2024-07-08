@@ -1,9 +1,9 @@
 # About
-- 👋 Hola, soy @afsh4ck
-- 👾 Ethical hacker, pentester y creador de contenido
+👋 Hola, soy @afsh4ck
+👾 Ethical hacker, pentester y creador de contenido
 
 ## Academia
-- 🎓 Mi academia de hacking online: <a href="https://www.h4ckercademy.com">h4ckercademy</a>
+🎓 Mi academia de hacking online: <a href="https://www.h4ckercademy.com">h4ckercademy</a>
 
 ## Sígueme
 - Instagram:   <a href="https://www.instagram.com/afsh4ck/">afsh4ck</a>
