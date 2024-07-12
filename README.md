@@ -1,5 +1,6 @@
 ## 👋 Hola, soy @afsh4ck
-![banner-github](https://github.com/afsh4ck/afsh4ck/assets/132138425/e1d8ef98-1cf0-441f-84ec-1770b24edc00)
+![banner-github](https://github.com/user-attachments/assets/2e8239a5-912a-44af-bc2e-e497b46939ed)
+
 
 ## 🚀 Sobre mí
 <ul dir="auto">
