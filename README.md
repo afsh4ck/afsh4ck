@@ -5,8 +5,8 @@
 ## 🚀 Sobre mí
 <ul dir="auto">
 <li>👾 Experto en Ciberseguridad Ofensiva y Pentesting en Entornos Empresariales</li>
-<li>🎥 Te enseño a hackear en <a href="https://youtube.com/@afsh4ck?sub_confirmation=1" rel="nofollow">Youtube</a> (+2k subs)</li>
-<li>🟢 También subo reels en <a href="https://youtube.com/@afsh4ck?sub_confirmation=1" rel="nofollow">Instagram</a> (+70k subs)</li>
+<li>🎥 Te enseño a hackear en <a href="https://youtube.com/@afsh4ck?sub_confirmation=1" rel="nofollow">Youtube</a> (+3k subs)</li>
+<li>🟢 También subo reels en <a href="https://youtube.com/@afsh4ck?sub_confirmation=1" rel="nofollow">Instagram</a> (+80k subs)</li>
 <li>🎓 Fundador de <a href="https://www.h4ckercademy.com" rel="nofollow">h4ckercademy</a></li>
 </ul>
 
