@@ -1,4 +1,4 @@
-## 👋 Hola, soy @afsh4ck
+## 👋 Hola, soy Alex (AFS H4CK)
 ![banner-github](https://github.com/user-attachments/assets/ecad6681-a006-4890-8c3c-df6d1426e01f)
 
 ## 🚀 Sobre mí
