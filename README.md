@@ -1,6 +1,68 @@
 ## 👋 Hola, soy Alex (AFS H4CK)
 ![git-banner](https://github.com/user-attachments/assets/5d495bd7-2101-4bde-906d-e0ad1d178535)
 
+```
+                                                            ...                                     
+                                                           ..                .                      
+                                ..                        ..                .                       
+                               .'.     ..........                      .  ... ..                    
+                              .. ..,;cloddddddddooolc:;;'..         ....  .. ...                    
+                            .',;codxxxxxxxxxxxxxxxxxxxxxxxol:,.     .....                  ..       
+                         .':ldxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdo:,.                      .'.        
+                      .,cdxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoc,.               . .''.         
+                   .,coxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdoddxxxxdddl;.            ''.'.           
+                 .;lodooddxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdoolllldxxddol;.         ....             
+               .,;cllllodxxxxxdddxxxxxxxxxxxxxxxxxxxxxxxxxxxxolc:;:cdxxoc:,.                        
+              ',,;c:coxxxxxollodxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdolc:;,,:oddc;,'.                      
+            .;'',;:ldxxxdc::lddddxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdol:,,'':doc,';'                     
+           .:'.',cdxxxd:,;collodxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdoool:,''.;l:;'.;;.               ..  
+          .c: .,lddddc,,:c:coddoddxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdolc::,...':;'..;:             .;,   
+          'c. ,ldodd:';;,;cllllodxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdool:,,,...,c,. .:;          .;l'    
+          ,;.,loloo;,:,';::cclodxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdlcc:'',..':c,  .:.        'oo.     
+         .,.'cc:lo:;;'';,,:ccldxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdl;,;.';',clc'  ', .:.  .cxl.      
+        .,..:c;:cccl;','',;:odxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdolc,'',:ccooc,.  ';od'.:xkc.       
+        '' .:,':::lo:;'''':ldxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdlc:;',cclool;'.  :xkxookx:.        
+       .,. .;.';;:lolc:,':clodxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdlc,,::ldddl:,...;xkkkkkx;          
+       .,. ...',;coxdooc;::clldxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdlc:'.:odxkdc:,.'lxkkkkkd,           
+       .,     .';codxxdo:,;::codxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdl:;' .cxkkkd:;''okkkdcdo'            
+       .,.     .,codxxxxo,..;::llddxxxxxxxxxxxxxxxxxxxxxxxxxdol;..  'dkkkxo;':dkkkd'.:.             
+        '.     .':ldxxxxxl'....',;cldxxxxxxxxxxxxxxxxxxxxdol:,'...;cokkkkd:,:xkkko'           .     
+        ..      .;cdxxxxxxdo:,;::::;;cdxxxxxxxxxxxxxxxl:;;;;;;;codxxkkkkkx:lkkkxc.          .'.     
+        ..      ..;dxxxxxxxd;;dxxxxxoloxxxxxxxxxxxxxxdccodxxxxxxxxkkkkkkkkxxkkx;           ..       
+         ..      .cO00Okxxxxc,:oodddkO00Oxxxxxxxxxxxxxxdooolllodxkkkkkxkkkkkkd,           ..        
+          .     .:xO0KKKOl,,'  ;l;cx0KK0Oxxxxxxxxxxxxoc;'.....,okkkkoldxkkkko'                      
+               .lxxl:ckKKOl.   ,:lkKKOdddxxxxxxxxxxxc..      .lkkkx:..'ckkkk:                       
+               cxxc'. .ckKKOl.'lkKKkc..:oxxxxxxxxxxl.       'dkkkd, ...;xkxx:    .       ..         
+               :xo;.    .ckKKOOKKkc.   .cllldxxxxxx:       ;xkkkl.     'dxxx;   .;.     .           
+           ..  .ldc'      ;OKKKKO;     .,:cldxxdoll,     .cxkxdc.      .;ldd.   ;o'                 
+          .oo,. :xd;    .ckKKOOKKOc.   .clodxxxdddxc.   .,co:''        .;lxc. .co;                  
+          .;odl:lxoc. .ckKKkc..ckKKOc..,cloxl:do:ldo;.    ..           ':oxl:ldc.                   
+            .cxxxxoc;ckKKOc.    .ckKKOdc;:l;. 'l;.',:c,.     '.       .,ldxocl;                     
+             .lxoldxOKK0x;....... 'lkKKOdl.    .;cc'.;ll:,..:c........;ldc'..,.                     
+              ;d'.:k0Oocc:::::coolc:ok0Ok;       ;dc...,;:codoodddddoddl'   ,,                      
+     ..       ,;   .cl;',;::;;;:loooolcc:.   .   .':c,;:ccc:;,,',,;:::,. ..'oc.                     
+   ...        .;.   ..,:cc;,'',,;cl:,.,:.   'o;    .coll;'.         .,;,,;:clc.                     
+  ..           .;,'''..'..    .  .,l:.;c.   'dc     cd:......',;;'',colcclc;..                      
+                .clcc:lolc,..',''...lolo'   ,xc.  .,l:',;;,,:l:'..;cll:;;'.                         
+                 .clc:;,...  .;cc;,,,cdxl'.,ccc;':ll:;cc:',;'.   ........                           
+                   ..          .':cc:;:o:,,;,..;;cl:;::,....                                        
+                             ..'.,oolc;cl;.;oc:'.cxc','. ....            ..                         
+                             ..',:olcl,;ol:lxdl;,:c,..    ...           ..                          
+                ..           .'...'',:.';'.cxoc',,..        .         ..                            
+                             .''..'...  .  .::',c,    ...   .        ......                         
+              ..             .............'....'',,'.. .,,...        .....                          
+            ...               .:,.,,...','.........,......,c,       ....                            
+           ..                  ...:o:. 'oo;. .cc;'. .;l,  .'       ..                               
+                                  ...  .:oc. .odl,.  ,;.          ..                                
+                                          .   ....                                                  
+                         ...                                                                        
+                         ....                                                                       
+                         ..                                                                         
+                        ..                                                                          
+                      ..                                                                            
+                                                                                                   
+```
+
 ## 🚀 Sobre mí
 <ul dir="auto">
 <li>👾 Offensive Security Engineer | Ethical Hacker | Creador de contenido </li>
