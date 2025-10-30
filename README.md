@@ -6,7 +6,7 @@
 <li>👾 Offensive Security Engineer | Ethical Hacker | Creador de contenido </li>
 <li>🟢 Sígueme en <a href="https://www.instagram.com/afsh4ck/" rel="nofollow">Instagram</a> (+165k subs)</li>
 <li>🎥 Te enseño a hackear en <a href="https://youtube.com/@afsh4ck?sub_confirmation=1" rel="nofollow">Youtube</a> (+25k subs)</li>
-<li>🎓 Fundador de <a href="https://www.h4ckercademy.com" rel="nofollow">h4ckercademy</a></li>
+<li>🎓 Fundador de <a href="https://www.h4ckercademy.com" rel="nofollow">h4ckercademy</a></li> - Academia de hacking online con +1700 alumnos
 </ul>
 
 ## 🔧 Skills
