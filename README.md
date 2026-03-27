@@ -48,6 +48,7 @@ Y muchas más!
   <a href="https://github.com/afsh4ck/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsh4ck&layout=compact&theme=merko" alt="Top Langs" height="148">
   </a>
+  ![Views](https://yourdomain.com/svg/count/9/Repository%20Views/your-repo)
 </div>
 <br>
 
