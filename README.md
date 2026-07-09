@@ -1,5 +1,5 @@
 ## 👋 Hola, soy Alex (AFS H4CK)
-![git-banner](https://github.com/user-attachments/assets/5d495bd7-2101-4bde-906d-e0ad1d178535)
+<img width="7686" height="3042" alt="banner-github" src="https://github.com/user-attachments/assets/2f9b77f8-3064-40aa-b4e9-054e6d90cefc" />
 
 ## 🚀 Sobre mí
 <ul dir="auto">
